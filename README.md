@@ -67,8 +67,3 @@ Hongik Univ. 컴퓨터공학과 (2024.02 - 2027.03)
 <a href="https://velog.io/@jsyun219"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <br>
 E-mail : jswun123@gmail.com
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Syooon0&show_icons=true&hide_border=true&theme=default" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syooon0&layout=compact&hide_border=true&theme=default" height="150"/>
