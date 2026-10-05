@@ -52,7 +52,7 @@ App / Web
 (2026.08) [**Among Agents**](https://github.com/Syooon0/sktflyai4-amongagent-ai)<br>
 인간 1명이 AI 플레이어 3명 사이에 섞여 3라운드 동안 들키지 않는 한국어 게임. 사람을 골라내는 독립 판단 에이전트를 플레이어와 분리해 뒀습니다.
 
-(2026.02 - ) **CodeReferee**<br>
+(2026.02 - ) [**CodeReferee**](https://github.com/CodeReferee-Team/codereferee-AI)<br>
 AI가 만든 코드가 실제 환경에서도 버티는지 검증하는 도구. Docker Sandbox에서 돌려보고 fault injection으로 흔들어 봅니다.
 
 (2026.07) **Preveil** — 사진 프라이버시 보호 앱(Tech4Good), React Native 프론트엔드<br>
