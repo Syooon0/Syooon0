@@ -46,7 +46,7 @@ App / Web
 ( ~ 2026.02) UMC (University MakeUs Challenge) iOS 파트
 
 ### Project
-(2026.08 - 2026.09) [**StoryDot**](https://github.com/Syooon0/sktflyai4-storydot-app)<br>
+(2026.08 - 2026.09) [**StoryDot**](https://github.com/geonoh-nam/StaryDot)<br>
 애니메이션에서 아이가 할 활동을 뽑아내는 파이프라인과, 그걸 실행하는 만 3~7세용 태블릿 앱. 재생 중에는 모델을 한 번도 호출하지 않는 구조로 짰습니다.
 
 (2026.08) [**Among Agents**](https://github.com/Syooon0/sktflyai4-amongagent-ai)<br>
@@ -55,9 +55,9 @@ App / Web
 (2026.02 - ) [**CodeReferee**](https://github.com/CodeReferee-Team/codereferee-AI)<br>
 AI가 만든 코드가 실제 환경에서도 버티는지 검증하는 도구. Docker Sandbox에서 돌려보고 fault injection으로 흔들어 봅니다.
 
-(2026.07) **Preveil** — 사진 프라이버시 보호 앱(Tech4Good), React Native 프론트엔드<br>
-(2026.01 - 2026.02) **LUMO** — SwiftUI 기반 iOS 미션 알람 앱, 미션·설정·테마 파트<br>
-(2025.07 - 2025.08) **마실꾼** — Kakao Map 기반 지역 여행 기록 웹, 폴리곤·길찾기·게시글<br>
+(2026.07) [**Preveil**](https://github.com/tech4good-One-T/frontend) — 사진 프라이버시 보호 앱(Tech4Good), React Native 프론트엔드<br>
+(2026.01 - 2026.02) [**LUMO**](https://github.com/LUMO-lumo/lumo-frontend) — SwiftUI 기반 iOS 미션 알람 앱, 미션·설정·테마 파트<br>
+(2025.07 - 2025.08) [**마실꾼**](https://github.com/gdg-hongik-univ-program/masilkkun-sinsaimdang-web) — Kakao Map 기반 지역 여행 기록 웹, 폴리곤·길찾기·게시글<br>
 (2025.11) **AI Agent Workflow** — n8n 기반 automation workflow 설계, 기술 블로그 문서화
 
 ### School
