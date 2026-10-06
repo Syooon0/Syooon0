@@ -57,8 +57,7 @@ AI가 만든 코드가 실제 환경에서도 버티는지 검증하는 도구. 
 
 (2026.07) [**Preveil**](https://github.com/tech4good-One-T/frontend) — 사진 프라이버시 보호 앱(Tech4Good), React Native 프론트엔드<br>
 (2026.01 - 2026.02) [**LUMO**](https://github.com/LUMO-lumo/lumo-frontend) — SwiftUI 기반 iOS 미션 알람 앱, 미션·설정·테마 파트<br>
-(2025.07 - 2025.08) [**마실꾼**](https://github.com/gdg-hongik-univ-program/masilkkun-sinsaimdang-web) — Kakao Map 기반 지역 여행 기록 웹, 폴리곤·길찾기·게시글<br>
-(2025.11) **AI Agent Workflow** — n8n 기반 automation workflow 설계, 기술 블로그 문서화
+(2025.07 - 2025.08) [**마실꾼**](https://github.com/gdg-hongik-univ-program/masilkkun-sinsaimdang-web) — Kakao Map 기반 지역 여행 기록 웹, 폴리곤·길찾기·게시글
 
 ### School
 Hongik Univ. 컴퓨터공학과 (2024.02 - 2027.03)
